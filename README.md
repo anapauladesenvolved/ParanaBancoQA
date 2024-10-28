@@ -1,6 +1,6 @@
 # CaseParanaBanco
 <h1 align="center"> Projeto de Testes C# de WEB/API Automatizados </h1>
->👷‍♀️Status: Desenvolvido | Versão = 1.0 | C# | Visual Studio | Testes de API e WEB (5)|👷‍♀️
+👷‍♀️Status: Desenvolvido | Versão = 1.0 | C# | Visual Studio | Testes de API e WEB (5)|👷‍♀️
 
 # Descrição do Projeto
 
@@ -8,9 +8,9 @@ Projeto em desenvolvimento para avaliação de técnica. O projeto foi desenvolv
 
 # 🔨 Funcionalidades do Projeto
 
--`Funcionalidade 1` : Clicar nos três botões da interface
--`Funcionalidade 2` : Navegar no grid e clicar nos botões EDIT E DELETE
--`Funcionalidade 3` : Realizar testes de API para testar os verbos GET,PUT,POST e DELETE
+- `Funcionalidade 1` : Clicar nos três botões da interface;
+- `Funcionalidade 2` : Navegar no grid e clicar nos botões EDIT E DELETE
+- `Funcionalidade 3` : Realizar testes de API para testar os verbos GET,PUT,POST e DELETE
 
 # 📂 Acesso ao Projeto
 **Você pode acessar o repositório do projeto[https://github.com/anapauladesenvolved/ParanaBancoQA.git] e baixá-lo.
