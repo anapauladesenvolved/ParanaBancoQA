@@ -1,8 +1,11 @@
 # CaseParanaBanco
 <h1 align="center"> Projeto de Testes C# de WEB/API Automatizados </h1>
 >👷‍♀️Status: Desenvolvido | Versão = 1.0 | C# | Visual Studio | Testes de API e WEB (5)|👷‍♀️
+
 # Descrição do Projeto
+
 Projeto em desenvolvimento para avaliação de técnica. O projeto foi desenvolvido como o objetivo de automação de testes tanto web como API. O mesmo utiliza recursos passados pela empresa solicitante. Utilizando a linguagem C#, framework xUnit, .NET8, Selenium.
+
 # 🔨 Funcionalidades do Projeto
 
 -`Funcionalidade 1` : Clicar nos três botões da interface
